@@ -1,6 +1,6 @@
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 
-<img src="https://ibb.co/DbB5m6t" alt= "список контактов в виде таблицы">
+<a href="https://ibb.co/DbB5m6t"><img src="https://i.ibb.co/VNF2bht/2022-01-14-11-09-51.png" alt="2022-01-14-11-09-51" border="0"></a>
 
 # Получаем контакт по id
 
